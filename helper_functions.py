@@ -50,4 +50,4 @@ def get_article_text(story_url):
     return number_sections, number_paragraphs, section_titles, story_text
 
 def rand_sleep():
-    time.sleep(3 + random.gauss(0,1))
+    time.sleep(abs(3 + random.gauss(0,1)))
