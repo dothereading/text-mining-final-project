@@ -6,6 +6,6 @@ In this project, we scraped the website Towards Data Science to construct a nove
 
 * `new-tds-scrape-all-days.ipynb` scrapes all articles from Towards Data Science for specified years producing a csv of the form: all_articled_20**_20**.csv,
 
-* `Analysis.ipynb` runs through the analysis of the data,
+* `Analysis_merged.ipynb` runs through the analysis of the data,
  
 * `finalreport.pdf` explains our methodology and results.
